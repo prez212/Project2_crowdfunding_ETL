@@ -1,20 +1,16 @@
 # Project2_crowdfunding_ETL
-UofT Bootcamp Data Analytics Bootcamp Project 2 ETL Team: LPerez, OUsman, RVarela
-
-Instructions
+UofT Bootcamp Data Analytics Bootcamp Project 2 ETL Team: Lucas Perez, Ola Usman, Ricardo Varela
 
 The instructions for this mini project are divided into the following subsections:
 
-    Create the Category and Subcategory DataFrames
-    Create the Campaign DataFrame
-    Create the Contacts DataFrame
-    Create the Crowdfunding Database
-    Create the Category and Subcategory DataFrames
-    
-Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
+    Create the Category and Subcategory DataFrame (Lucas)
+    Create the Campaign DataFrame (Ola)
+    Create the Contacts DataFrame (Ricardo)
+    Create the Crowdfunding Database (Lucas)
 
-A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
+Bharat (Instructor) advised with troubleshooting when extracting csv to use "quotechar="
+ExpertLearning Assistant, AskBCs and Tutor assisted with troubleshooting Contact Dataframe
+MS Co-pilot to troubleshoot syntax in Category, Subcategory and Campaign Dataframe
 
-A "category" column that contains only the category titles
 
-The following image shows this category DataFrame:
+
